@@ -1,7 +1,3 @@
 {
-  "origins": [
-    "https://stage.imagekit.io/",
-    "https://imagekit.io/"
-  ],
   "defaultCommentOrder": "oldest"
 }
