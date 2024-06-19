@@ -1,7 +1,8 @@
 {
   "origins": [
     "https://stage.imagekit.io",
-    "https://imagekit.io"
+    "https://imagekit.io",
+    "http://localhost"
   ],
   "defaultCommentOrder": "oldest"
 }
